@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarQueueTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-12T08:19:27" hostname="fedora" time="0.027">
+  <properties/>
+  <testcase name="add()" classname="CarQueueTest" time="0.023"/>
+  <testcase name="peek()" classname="CarQueueTest" time="0.001"/>
+  <testcase name="poll()" classname="CarQueueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
